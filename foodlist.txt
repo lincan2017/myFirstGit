@@ -1,4 +1,4 @@
-Hello world!
+
 Hot dog
 ice cream
 hanburger
