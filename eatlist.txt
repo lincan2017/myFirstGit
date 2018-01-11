@@ -1,1 +1,5 @@
-egg
+CAT
+DOG
+RABBIT
+PIG
+
